@@ -774,7 +774,38 @@
             "ticket_number": 1,
             "tip": 0,
             "total": 624
-        }
+        },
+        {
+            "account_type": 2,
+            "amount": 557,
+            "bank": {
+                "id": 2945,
+                "nickname": "Regular Savings"
+            },
+            "batch_id": 80,
+            "buyer": {
+                "buyer_avatar": "https://d7630u3gvmjyq.cloudfront.net/",
+                "buyer_fullname": "Satish Gupta",
+                "buyer_id": 2548,
+                "has_avatar": false
+            },
+            "current_location": "39.0437,-77.4875",
+            "date": "May 04",
+            "date_settled": "2015-05-29T13:40:21.051221",
+            "discount": 0,
+            "facilitator_fee": 0,
+            "fee": 0.25,
+            "id": 3716,
+            "is_buyer": false,
+            "note": "",
+            "resource_uri": null,
+            "status": 3,
+            "status_url": "",
+            "supp_id": "",
+            "ticket_number": 1,
+            "tip": 0,
+            "total": 557
+        },
     ],
     "page": 1,
     "page_count": 2,
