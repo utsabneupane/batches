@@ -157,7 +157,7 @@
         },
         {
             "account_type": 2,
-            "amount": 1100,
+            "amount": 1101,
             "bank": {
                 "id": 2349,
                 "nickname": "WAY2SAVE® CHECKING"
@@ -184,7 +184,7 @@
             "supp_id": "",
             "ticket_number": 1,
             "tip": 0,
-            "total": 1100
+            "total": 1101
         },
         {
             "account_type": 2,
